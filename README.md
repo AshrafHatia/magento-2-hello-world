@@ -8,7 +8,7 @@ This is Hello World Module for Magento 2 compatible with Magento - 2.3.5.
 
 ![Alt text](app/ss/127_0_0_1_mg_sd_2_3_5_ashraf_page_view.png?raw=true "Optional Title")
 
-## Installation
+## 🤖 Installation
 
 Copy Ashraf folder in at app/code of ur Magento root folder
 
@@ -26,7 +26,7 @@ php bin/magento cache:clean
 
 ```
 
-## Usage
+## 📦 Usage
 
 ```python
 
@@ -41,5 +41,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
+## 📜 License
 [MIT](https://github.com/AshrafHatia/magento-2-hello-world/blob/master/LICENSE)
