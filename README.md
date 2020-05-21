@@ -6,7 +6,7 @@ Ashraf_HelloWorld
 
 This is Hello World Module for Magento 2 compatible with Magento - 2.3.5.
 
-![Alt text](app/ss/127_0_0_1_mg_sd_2_3_5_ashraf_page_view.png?raw=true "Optional Title")
+![Alt text](ss/127_0_0_1_mg_sd_2_3_5_ashraf_page_view.png?raw=true "Optional Title")
 
 ## 🤖 Installation
 
